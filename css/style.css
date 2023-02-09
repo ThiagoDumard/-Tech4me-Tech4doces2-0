@@ -1,0 +1,62 @@
+body{
+    /*background-image: linear-gradient(60deg,white,rgb(191, 68, 212),rgb(161, 42, 235),white, rgb(204, 54, 220), white);
+    color: rgb(255, 255, 255);*/
+    background-attachment: fixed;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    color: aliceblue;
+    background-color: darkgray;
+}
+table tr td{
+    border: 5px solid rgb(0, 0, 0);
+    font-size: 25px;
+    border-radius: 10px;
+    text-align: center;
+    align-items: center;
+}
+th{
+    border: 5px solid rgb(0, 0, 0);
+    font-size: 25px;
+    border-radius: 10px;
+}
+
+/* cor das colunas*/
+
+.cor1{
+    color: rgb(255, 0, 0);
+    background-color: rgb(48, 32, 58);
+}
+.cor2{
+    color: rgb(255, 94, 0);
+    background-color: rgb(119, 3, 3);
+}
+.cor3{
+    color: rgb(157, 0, 255);
+    background-color: rgb(205, 78, 4);
+}
+/* cor das cedulas*/
+
+.cor4{
+    background-color: rgb(48, 32, 58);
+}
+.cor5{
+    background-color: rgb(119, 3, 3)
+}
+.cor6{
+    background-color: rgb(205, 78, 4);
+}
+h3{
+    font-size: 30px;
+    color: rgb(79, 78, 78);
+}
+.tabela{
+    justify-content: center;
+    text-align: center;
+}
+h1, h3{
+    color: black;
+}
+.texto{
+    font-size: 25px;
+}
